@@ -1,0 +1,8 @@
+; Use semcolon to comment the variable
+
+[API-options]    #------> section header followed by key/value
+
+url = https://dm-us.informaticacloud.com/ma/api/v2/user/login
+username = XXXX@gmail.com
+password = XXXXXX
+emailid = XXXXXX@gmail.com
