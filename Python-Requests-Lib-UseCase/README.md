@@ -9,7 +9,9 @@ To retrieve the status and service details of the Informatica cloud secure agent
 REST API that can be used is :- 
 
 GET <serverUrl>/api/v2/agent/details/{agent_id}
+ 
 Accept:application/json
+
 icSessionId: <icSessionId>
 
 
