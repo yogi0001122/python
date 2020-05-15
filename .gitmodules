@@ -10,3 +10,6 @@
 [submodule "newmodulethree"]
 	path = newmodulethree
 	url = https://yogi00001122:73f81022e09fafef1d32bec2a4940ff51b972e88@github.com/yogi0001122/python.git
+[submodule "submdoule"]
+	path = submdoule
+	url = https://yogi0001122:98f3667120209e7279ac4f14ae511aaa598d81bb@github.com/yogi0001122/python.git
