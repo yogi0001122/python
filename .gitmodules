@@ -13,3 +13,7 @@
 [submodule "submdoule"]
 	path = submdoule
 	url = https://yogi0001122:98f3667120209e7279ac4f14ae511aaa598d81bb@github.com/yogi0001122/python.git
+[submodule "modules/yogisubmod"]
+	url = /home/sl185166/git_repo/python
+	path = modules/yogisubmod
+	branch = refs/heads/master
