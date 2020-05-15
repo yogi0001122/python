@@ -7,3 +7,6 @@
 [submodule "newsubmdoule3"]
 	path = newsubmdoule3
 	url = https://github.com/yogi0001122/python.git
+[submodule "newmodulethree"]
+	path = newmodulethree
+	url = https://yogi00001122:73f81022e09fafef1d32bec2a4940ff51b972e88@github.com/yogi0001122/python.git
