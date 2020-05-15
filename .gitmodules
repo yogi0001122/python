@@ -4,3 +4,6 @@
 [submodule "pythonmodule2"]
 	url = /home/sl185166/git_repo/python/.git
 	path = pythonmodule2
+[submodule "pythonmodule3"]
+	url = /home/sl185166/git_repo/python/.git
+	path = pythonmodule3
