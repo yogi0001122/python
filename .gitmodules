@@ -1,3 +1,6 @@
 [submodule "firstmodule"]
 	path = firstmodule
 	url = https://github.com/yogi0001122/python.git
+[submodule "source"]
+	url = https://github.com/gitpython-developers/GitPython
+	path = repo_temp/test/source
