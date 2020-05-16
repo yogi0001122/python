@@ -7,3 +7,6 @@
 [submodule "module2"]
 	url = https://github.com/yogi0001122/python
 	path = python_lib2
+[submodule "module3"]
+	url = https://github.com/yogi0001122/python
+	path = python_lib3
