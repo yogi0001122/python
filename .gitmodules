@@ -1,3 +1,6 @@
 [submodule "firstmodule"]
 	path = firstmodule
 	url = https://github.com/yogi0001122/python.git
+[submodule "module1"]
+	url = https://github.com/yogi0001122/python
+	path = python/python_lib
