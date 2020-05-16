@@ -10,3 +10,6 @@
 [submodule "module3"]
 	url = https://github.com/yogi0001122/python
 	path = python_lib3
+[submodule "yogitest"]
+	url = https://github.com/yogi0001122/python
+	path = yogitest
