@@ -4,3 +4,6 @@
 [submodule "module1"]
 	url = https://github.com/yogi0001122/python
 	path = python_lib
+[submodule "module2"]
+	url = https://github.com/yogi0001122/python
+	path = python_lib2
