@@ -1,18 +1,3 @@
 [submodule "firstmodule"]
 	path = firstmodule
 	url = https://github.com/yogi0001122/python.git
-[submodule "module1"]
-	url = https://github.com/yogi0001122/python
-	path = python_lib
-[submodule "module2"]
-	url = https://github.com/yogi0001122/python
-	path = python_lib2
-[submodule "module3"]
-	url = https://github.com/yogi0001122/python
-	path = python_lib3
-[submodule "yogitest"]
-	url = https://github.com/yogi0001122/python
-	path = yogitest
-[submodule "create"]
-	url = https://github.com/yogi0001122/python
-	path = create
