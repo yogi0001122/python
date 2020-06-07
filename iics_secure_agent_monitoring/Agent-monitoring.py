@@ -100,7 +100,7 @@ print(icSessionID)
 #Call Function to get Agent details using Cloud API
 
 api_header = {'Content-Type' : 'application/json','icSessionId': icSessionID}
-api_url = serverUrl + '/api/v2/agent/details/010YYP08000000000002'
+api_url = serverUrl + '/api/v2/agent/details/<agentID>'
 
 aget_data = get_agent_details(api_url,api_header)
 
