@@ -1,5 +1,5 @@
 ---
-Page_type: Python Use cases
+Page_type: Python Use Cases
 Languages: Python
 Products:
   - iPaaS (IICS REST API) 
