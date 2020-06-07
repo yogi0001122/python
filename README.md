@@ -4,5 +4,4 @@ Languages:
   - Python
 Products:
   - IpaaS 
-urlFragment: servicebus-samples
 ---
