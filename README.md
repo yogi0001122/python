@@ -1,8 +1,8 @@
 ---
-page_type: Python Use cases
-languages:
-  - python
-products:
+Page_type: Python Use cases
+Languages:
+  - Python
+Products:
   - IpaaS 
 urlFragment: servicebus-samples
 ---
