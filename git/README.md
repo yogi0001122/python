@@ -9,7 +9,7 @@
           
           User ---> Setting--->Developer settings--->Personal access tokens--->Generate new token
      
-     ## Step 2:  Create a file with the name .tokenfile under user's home directory on system where you have this scrip and paste user's token in .tokenfile.
+     ## Step 2:  Create a file with the name .tokenfile under user's home directory on system where you have this scrip and paste user's token in .tokenfile
      ## Step 3:  Change org name or user account name in script for variable org_name like this: org_name = "yogi1122"
      ## Step 4:  Now you can run script to Archive Repo on GitHub for user account or for an organization
       
