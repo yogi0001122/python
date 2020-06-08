@@ -25,7 +25,7 @@ options, remainder = getopt.getopt(sys.argv[1:], 'da:', ['delete=',
 home_path = os.path.expanduser('~')
 token_file = home_path + '/.tokenfile'
 file = open(token_file)
-org_name = "yogi1122"
+org_name = "org-name or useraccount"
 for line in file:
     token = line.rstrip("\n").lstrip("\n")
 token_code = 'token ' + token
