@@ -11,7 +11,7 @@ import getopt
 args = sys.argv
 if len(args) != 3:
     print ("""
-    Usage: python archive_repo.py -d <RepoName> or -a <RepoName>
+    Usage: python archive_delete_git_repo.py -d <RepoName> or -a <RepoName>
     Options:
     -d or --delete    <RepoName>  : To delete  the repo
     -a or --archive   <RepoName>  : To archive the repo
