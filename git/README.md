@@ -2,7 +2,7 @@
  This code is for Python Requests Library using GitHub API
  
 
-# HOW TO To Archive or Delete GitHub repo for user or for an organization on GitHub?
+# HOW To: Archive or Delete GitHub repo for user or for an organization on GitHub?
 # Solution:
      
      ## Step 1:  Create PAT for GitHub User account:
