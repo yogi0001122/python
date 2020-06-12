@@ -16,18 +16,15 @@
 
   - Below is REST Login API that can be used is to get icSessionId:
 
-   POST https://dm-us.informaticacloud.com/ma/api/v2/user/login
    
-   Accept:application/json
-   
-   {
-   
-       "@type" : "login",
-
-       "username" : "XXXXXX@gmail.com",
-    
-       "password" : "XXXXXX"
-   }
+     POST https://dm-us.informaticacloud.com/ma/api/v2/user/login
+     
+     Accept:application/jso
+     {
+          "@type" : "login",
+          "username" : "XXXXXX@gmail.com", 
+         "password" : "XXXXXX"
+     }
  
 ## Step 2:
 
