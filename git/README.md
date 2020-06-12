@@ -25,7 +25,7 @@
      
            python archive_delete_git_repo.py -d testrepo 
                 
-  #### Note: Repo deletion action will ask for confirmation like below : 
+  #### Note: Repo deletion will ask for confirmation like below: 
                 
            Do you want to delete repo ? (y/n):
 
