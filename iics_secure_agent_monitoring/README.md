@@ -16,8 +16,7 @@
 
   - Below is REST Login API that can be used is to get icSessionId:
 
-    POST https://dm-us.informaticacloud.com/ma/api/v2/user/login
-
+   POST https://dm-us.informaticacloud.com/ma/api/v2/user/login
    Accept:application/json
    
    {
