@@ -5,7 +5,7 @@
 # HOW To: Archive or Delete GitHub repo for user or for an organization on GitHub?
 # Solution:
      
-     ## Prerequisite:
+     ## Prerequisite: install python requests moudle
      
          pip install requests
      
