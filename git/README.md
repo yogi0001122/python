@@ -5,6 +5,10 @@
 # HOW To: Archive or Delete GitHub repo for user or for an organization on GitHub?
 # Solution:
      
+     ## Prerequisite:
+     
+         pip install requests
+     
      ## Step 1:  Create PAT for GitHub User account:
           
           User ---> Setting--->Developer settings--->Personal access tokens--->Generate new token
