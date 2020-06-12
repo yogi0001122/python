@@ -19,13 +19,13 @@
   
   ## Step 4:  Now you can run script to Archive Repo on GitHub for user account or for an organization
       
-                - python archive_delete_git_repo.py -a testrepo
+           python archive_delete_git_repo.py -a testrepo
       
   ## Step 4:  Now you can run script to Delete Repo on GitHub for user account or for an organization
      
-                - python archive_delete_git_repo.py -d testrepo 
+           python archive_delete_git_repo.py -d testrepo 
                 
-                ### Note: Repo deletion action will ask for confirmation like below : 
+  #### Note: Repo deletion action will ask for confirmation like below : 
                 
-                - Do you want to delete repo ? (y/n):
+           Do you want to delete repo ? (y/n):
 
