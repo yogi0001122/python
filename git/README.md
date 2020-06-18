@@ -26,7 +26,7 @@
       
            python archive_delete_git_repo.py -a testrepo
       
-  ### Step 4:  
+  ### Step 5: 
   - Now you can run script to Delete Repo on GitHub for user account or for an organization
      
            python archive_delete_git_repo.py -d testrepo 
