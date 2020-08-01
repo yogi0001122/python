@@ -17,7 +17,7 @@ These are code samples that show common scenario operations with the different-2
     - Read user/password/url from configuration file
     - Enabling Logging
    
-- [archive_delete_git_repo.py](./git/archive_delete_git_repo.py) - To Archive and Delete GitHub repo for user or for an organization:  
+- [archive_delete_git_repo](./git/README.md) - To Archive and Delete GitHub repo for user or for an organization:  
     -	Take parameters from user at the run time
    	 - Usage: python archive_delete_git_repo.py -d RepoName or -a RepoName
          - Options :
