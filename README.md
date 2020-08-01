@@ -4,7 +4,7 @@ Languages: Python
 Products:
   - iPaaS (IICS REST API) 
   - GitHub
-  - Flask
+  - python flask
 ---
 
 # Python Code Samples for different-2 product's real time scenarios
