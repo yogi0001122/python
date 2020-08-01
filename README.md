@@ -24,4 +24,4 @@ These are code samples that show common scenario operations with the different-2
 	     -  -d or --delete    <RepoName>  : To delete  the repo
 	     - -a or --archive   <RepoName>  : To archive the repo
 
-- [BuildFlaskAPI] (./python-flask-app/README.md) - Build Python Flask API
+- [BuildFlaskAPI](./python-flask-app/README.md) - Build a Python Flask API
