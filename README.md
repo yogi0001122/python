@@ -25,3 +25,6 @@ These are code samples that show common scenario operations with the different-2
 	     - -a or --archive   <RepoName>  : To archive the repo
 
 - [BuildFlaskAPI](./python-flask-app/README.md) - Build a Python Flask API
+	- Develop Python flask api
+	- Connect with Postgres DB
+	
