@@ -1,6 +1,6 @@
 # Build API using Python Flask
 
-![FlaskAPI](./FlaskApi.PNG)
+![FlaskAPI](./FlaskAPI.PNG)
 
 
 The following are needed to run PythonFlask API: 
